@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "402219147461",
+    "project_id": "fir-reactpm",
+    "storage_bucket": "fir-reactpm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402219147461:android:10282d1acc5fe4ad4e50ac",
+        "android_client_info": {
+          "package_name": "com.reactfirebasepm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402219147461-pl5k3nkjp0o3v0t3e0f6do1qpqidq11q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2W3NmnNiGTu7ePm-Jn4hwKUbZSx1HWkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402219147461-pl5k3nkjp0o3v0t3e0f6do1qpqidq11q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
